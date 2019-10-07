@@ -31,3 +31,6 @@
 
 en:
   hello: "Hello world"
+development:
+  host: 'localhost'
+  port: '8005'
